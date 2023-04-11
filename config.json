@@ -1,0 +1,10 @@
+{
+    "secret_key": "your-secret-key",
+    "logging": {
+      "log_file": "request_logs.log",
+      "backup_count": 7,
+      "log_level": "INFO"
+    },
+    "aes_key": "7d07d0f0e05c47f08b4c7a6b7fcb0fb3"
+  }
+  
